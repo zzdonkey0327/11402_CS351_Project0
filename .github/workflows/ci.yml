@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, PX11402-9-Project-0-creat-test-cases ]
   pull_request:
-    branches: [ main ]
+    branches: [ main, PX11402-9-Project-0-creat-test-cases ]
 
 jobs:
   build:
