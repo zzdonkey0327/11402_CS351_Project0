@@ -1,0 +1,11 @@
+# ninja log v7
+49	896	7998365535687125	CMakeFiles/twosum.dir/src/twosum.cpp.obj	6717ca7be861d04b
+64	905	7998365535837381	CMakeFiles/test_twosum.dir/src/twosum.cpp.obj	3395305c85ac63f5
+40	1165	7998365535601943	CMakeFiles/twosum.dir/src/main.cpp.obj	88a4d4ff3d469bae
+57	1329	7998365535762298	CMakeFiles/test_twosum.dir/tests/test_twosum.cpp.obj	4d3059c04273d980
+1167	1556	7998365546869492	twosum.exe	881011862ad23fb9
+1330	1627	7998365548497808	test_twosum.exe	ff0fadaeb0887845
+46	1393	7998366225291993	CMakeFiles/test_twosum.dir/tests/test_twosum.cpp.obj	4d3059c04273d980
+1394	1786	7998366238777603	test_twosum.exe	ff0fadaeb0887845
+60	1414	7998366708281032	CMakeFiles/test_twosum.dir/tests/test_twosum.cpp.obj	4d3059c04273d980
+1415	1777	7998366721828372	test_twosum.exe	ff0fadaeb0887845
