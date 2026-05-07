@@ -1,19 +1,19 @@
-Start testing: May 07 13:57 台北標準時間
+Start testing: May 07 14:17 台北標準時間
 ----------------------------------------------------------
 1/1 Testing: test_twosum
 1/1 Test: test_twosum
 Command: "E:/School/1142/AI-assisted/Repos/11402_CS351_Project0/build/test_twosum.exe"
 Directory: E:/School/1142/AI-assisted/Repos/11402_CS351_Project0/build
-"test_twosum" start time: May 07 13:57 台北標準時間
+"test_twosum" start time: May 07 14:17 台北標準時間
 Output:
 ----------------------------------------------------------
 All Two Sum tests passed
 <end of output>
-Test time =   0.11 sec
+Test time =   0.10 sec
 ----------------------------------------------------------
 Test Passed.
-"test_twosum" end time: May 07 13:57 台北標準時間
+"test_twosum" end time: May 07 14:17 台北標準時間
 "test_twosum" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: May 07 13:57 台北標準時間
+End testing: May 07 14:17 台北標準時間

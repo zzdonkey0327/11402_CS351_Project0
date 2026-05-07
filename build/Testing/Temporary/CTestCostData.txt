@@ -1,2 +1,2 @@
-test_twosum 1 0.109605
+test_twosum 4 0.0248994
 ---

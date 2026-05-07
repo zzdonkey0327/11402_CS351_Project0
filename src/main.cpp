@@ -87,7 +87,7 @@ bool ParseNumbers(std::string_view text, std::vector<int>& nums) {
 }
 
 void PrintIndices(const std::vector<std::size_t>& indices) {
-	std::cout << '[' << indices[0] << ',' << indices[1] << ']';
+	std::cout << '[' << indices[0] << ',' << indices[1] << ']' << std::endl;
 }
 
 }  // namespace
