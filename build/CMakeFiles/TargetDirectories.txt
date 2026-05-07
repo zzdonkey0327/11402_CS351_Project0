@@ -1,6 +1,0 @@
-E:/School/1142/AI-assisted/Repos/11402_CS351_Project0/build/CMakeFiles/twosum.dir
-E:/School/1142/AI-assisted/Repos/11402_CS351_Project0/build/CMakeFiles/test_twosum.dir
-E:/School/1142/AI-assisted/Repos/11402_CS351_Project0/build/CMakeFiles/twosum_test.dir
-E:/School/1142/AI-assisted/Repos/11402_CS351_Project0/build/CMakeFiles/test.dir
-E:/School/1142/AI-assisted/Repos/11402_CS351_Project0/build/CMakeFiles/edit_cache.dir
-E:/School/1142/AI-assisted/Repos/11402_CS351_Project0/build/CMakeFiles/rebuild_cache.dir

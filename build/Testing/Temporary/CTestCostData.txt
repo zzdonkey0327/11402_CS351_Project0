@@ -1,6 +1,0 @@
-test_twosum 1 0.102575
-case_basic 1 0.124527
-case_negative 1 0.0259874
-case_duplicate 1 0.0280558
-case_no_solution 1 0.0243603
----
