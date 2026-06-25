@@ -9,6 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,11 +26,12 @@ jobs:
         run: cmake --build build --config Release --parallel
 
       - name: Run tests
-        run: ctest --test-dir build --output-on-failure
+        run: |
+          ctest --test-dir build --output-on-failure | tee build/ctest.log
 
       - name: Upload test results
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: ctest-log
-          path: build/Testing
+          path: build/ctest.log
